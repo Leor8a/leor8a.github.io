@@ -108,26 +108,26 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : "/assets/images/Luis.jpg"
+  avatar           : "/assets/images/mee.jpg"
   bio              : "I am an **awesome iOS Developer engineer**."
   location         : "Mexico City, MX"
   email            : "leor8apuma@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:leor8apuma@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "http://tequilafreak.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/Trotopo"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/leor8a"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Leor8a"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -300,4 +300,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
