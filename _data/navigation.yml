@@ -4,6 +4,12 @@ main:
     url: /about/
   - title: "Computer Graphics"
     url: /computer-graphics/
+  - title: "Networks"
+    url: /networks/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "CV"
+    url: /curriculum/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
