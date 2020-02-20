@@ -15,11 +15,11 @@ Experience
 March 2019 - PRESENT
 
 Founder of Tequila Freak Website, a one man studio. Founder, manager and creator of 
-www.tequilafreak.com,a website for Computer Graphic Lovers. TequilaFreak.com holds 
+www.tequilafreak.com, a website for Computer Graphic Lovers. TequilaFreak.com holds 
 my portafolio of proyects that I was involved into on the past years, and a blog, where 
 I can talk about CG and my favorite stuff.
  
-**Junior iOS Developer**
+**iOS Developer Jr**
 Company: New Land Apps
 June 2018 - March 2019
 
