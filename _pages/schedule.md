@@ -5,6 +5,16 @@ header:
  image: "/images/schedule.jpg"
 ---
 
+
+| Nomenclatura |                   Materia                     |
+|--------------|-----------------------------------------------|
+|     TSG      |          TEMAS SELECTOS DE GRAFICACION        |
+|      CE      |              CIRCUITOS ELECTRICOS             |
+|      RD      |                  REDES DE DATOS               |
+|     IMV      |    INTERFACES MULTIMEDIA Y REALIDAD VIRTUAL   |
+|     CGA      |           COMPUTACION GRAFICA AVANZADA        |
+
+
 | Materia | Lunes         | Martes        | Miércoles     | Jueves        | Viernes | Sábado       |
 |---------|---------------|---------------|---------------|---------------|---------|--------------|
 | Lab CE  |               |               | 11:30 a 13:30 |               |         |              |

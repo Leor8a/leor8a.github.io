@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tequila Freak"
+title                    : "T3quila Fr3Ak"
 title_separator          : "-"
-subtitle                 : "Welcome Computer Graphics Mate"
+subtitle                 : "Computer Graphics, Hacking, App Development and more..."
 name                     : "Luis Ernesto Ochoa Rios"
 description              : "This is my personal website on the interwebs."
 url                      : "https://www.tequilafreak.com"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Luis Ernesto Ochoa Rios"
   avatar           : "/images/mee.jpg"
-  bio              : "I am an **awesome iOS Developer** engineer."
+  bio              : "I am an awesome **iOS Developer** engineer."
   location         : "Mexico City, MX"
   email            : "leor8apuma@gmail.com"
   links:
