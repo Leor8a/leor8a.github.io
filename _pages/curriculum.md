@@ -5,10 +5,12 @@ header:
  image: "/images/lowpolyTwo.jpg"
 ---
 
+---
 Curriculum Vitae
-
-##Experience##
-
+---
+---
+Experience
+---
 **iOS Developer, Android Developer, Web Developer, Founder**
 March 2019 - PRESENT
 
@@ -32,13 +34,15 @@ July 2018 - January 2014
 
 Experience with .Net and C# for creating fronted on Web Pages. It was a webpage for Lyncott where you were uploading recepies of food and you could get prizes, with the most shared recepy via Facebook.
 
-##Education
+---
+Education
+---
 
 **Diplomat - Movile App Development with iOS Devices.**
 August 2018 - January 2019
 Place: iOS Development Lab - Faculty of Engineering - National Autonomus University of Mexico. (UNAM-FI)
 
-** Computer Engineering **
+**Computer Engineering**
 2010 - PRESENT
 Place: Faculty of Engineering - National Autonomus University of Mexico. (UNAM-FI)
 
@@ -54,7 +58,9 @@ September 2014
 Place: DEVHR - An event where videogame developers met for videogame development. It's like the mexican E3 Expo. I participated by attending the international pontents and by attending 
 Attending the people that went to the event. 
 
-##Languages
+---
+Languages
+---
 
 **English**
 CELE approved that I have the skills for reading comprehension. This is a Bachellor's Degree Pre-Requisit.
