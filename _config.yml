@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Luis Ernesto Ochoa Rios"
-  avatar           : "/assets/images/mee.jpg"
+  avatar           : "/images/mee.jpg"
   bio              : "I am an **awesome iOS Developer engineer**."
   location         : "Mexico City, MX"
   email            : "leor8apuma@gmail.com"
