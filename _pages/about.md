@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /about/
 header: 
- image: "/images/lowpoly.jpg"
+ image: "/images/iosDev.jpg"
 ---
 
 I'm a junior iOS Developer who loves computer graphics, I had experience making iOS apps for several companies

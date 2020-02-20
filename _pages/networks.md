@@ -2,7 +2,7 @@
 title: "Networks"
 permalink: /networks/
 header: 
- image: "/images/lowpolyTwo.jpg"
+ image: "/images/network.jpg"
 ---
 
 Networks sha la la
