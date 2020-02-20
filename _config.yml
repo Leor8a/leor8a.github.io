@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Tequila Freak"
 title_separator          : "-"
 subtitle                 : "All CG welcome aboard"
-name                     : "Luis Ernesto Ochoa Ríos"
+name                     : "Luis Ernesto Ochoa Rios"
 description              : "This is my personal website on the interwebs."
 url                      : "https://www.tequilafreak.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luis Ernesto Ochoa Ríos"
+  name             : "Luis Ernesto Ochoa Rios"
   avatar           : "/assets/images/mee.jpg"
   bio              : "I am an **awesome iOS Developer engineer**."
   location         : "Mexico City, MX"
