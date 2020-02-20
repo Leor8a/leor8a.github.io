@@ -6,7 +6,7 @@ header:
 ---
 
 
-| Nomenclature |                   Signature                   |
+| Nomenclature |                    Subject                    |
 |--------------|-----------------------------------------------|
 |     SGT      |             SELECTED GRAPHIC THEMES           |
 |      EC      |                ELECTRIC CIRCUITS              |
@@ -15,7 +15,7 @@ header:
 |     ACG      |           ADVANCED COMPUTER GRAPHICS          |
 
 
-|  Signature |    Monday      |   Tuesday      |     Wednesday    | Thursday       | Friday  | Saturday      |
+|  Subject   |    Monday      |   Tuesday      |     Wednesday    | Thursday       | Friday  | Saturday      |
 |------------|----------------|----------------|------------------|----------------|---------|---------------|
 |   EC Lab   |                |                |  11:30 to 13:30  |                |         |               |
 |    SGT     | 16:30 to 18:00 |                |  16:30 to 18:00  |                |         |               |
