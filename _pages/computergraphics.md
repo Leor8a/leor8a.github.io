@@ -7,4 +7,8 @@ header:
  image: "/images/lowpolyTwo.jpg"
 ---
 
-Welcomo to my personal site.
+Computer Graphics related stuff.
+
+
+Yeeeiii c'mon duuude.
+
