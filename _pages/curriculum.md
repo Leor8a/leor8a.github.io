@@ -7,7 +7,7 @@ header:
 
 Curriculum Vitae
 
-##Experience
+##Experience##
 
 **iOS Developer, Android Developer, Web Developer, Founder**
 March 2019 - PRESENT
@@ -51,9 +51,10 @@ Place: SODVI - Faculty of Engineering - National Autonomus University of Mexico.
 
 **Volunteering**
 September 2014
-Place: DEVHR - An event where videogame developers met for videogame development. It's like the mexican E3 Expo.
+Place: DEVHR - An event where videogame developers met for videogame development. It's like the mexican E3 Expo. I participated by attending the international pontents and by attending 
+Attending the people that went to the event. 
 
 ##Languages
 
-English 
-CELE approved that I have the skills for reading comprehension in the English language. This is a Bachellor's Degree Pre-Requisit.
+**English**
+CELE approved that I have the skills for reading comprehension. This is a Bachellor's Degree Pre-Requisit.
