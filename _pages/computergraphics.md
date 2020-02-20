@@ -1,11 +1,12 @@
 ---
 layout: archive
 permalink: /computer-graphics/
-title: "Computer Graphics Posts by Tags"
+title: "Computer Graphics"
 author_profile: true
 header:
-	image: "/assests/images/lowpolyTwo.jpg"
+ image: "/assests/images/lowpolyTwo.jpg"
 ---
+
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
