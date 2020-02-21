@@ -16,7 +16,6 @@ them soon. The **frequency spectrum** of 5G is divided into
 millimeter waves, mid-band and low-band. Low-band uses a similar 
 frequency range as the predecessor, **4G**.
 
-
 The **Internet of things** (IoT) is a system of interrelated computing 
 devices, mechanical and digital machines, objects, animals or people 
 that are provided with unique **identifiers** (UIDs) and the ability to 
