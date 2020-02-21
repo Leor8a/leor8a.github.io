@@ -5,7 +5,7 @@ header:
  image: "/images/iosDev.jpg"
 ---
 
-I'm a **Junior iOS Developer** who loves computer graphics, I had experience making iOS apps for several companies
+I'm a **iOS Developer** who loves computer graphics, I had experience making iOS apps for several companies
 such as New Land Apps, Lyncott, etc., but now I want to make my proyects happend so I went back to my University, 
 National Autonomous University of Mexico - Faculty of Engineering (UNAM-FI) to make the stuff I really want to make 
 and start working on my thesis.
