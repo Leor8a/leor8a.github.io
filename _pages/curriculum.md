@@ -5,21 +5,21 @@ header:
  image: "/images/lowpolyTwo.jpg"
 ---
 
----
-Curriculum Vitae
----
----
-Experience
----
-**iOS Developer, Android Developer, Web Developer, Founder**
+
+#### Curriculum Vitae
+
+
+###### Experience
+
+###### iOS Developer, Android Developer, Web Developer, Founder
+
 March 2019 - PRESENT
 
-Founder of Tequila Freak Website, a one man studio. Founder, manager and creator of 
-www.tequilafreak.com, a website for Computer Graphic Lovers. TequilaFreak.com holds 
-my portafolio of proyects that I was involved into on the past years, and a blog, where 
-I can talk about CG and my favorite stuff.
+Founder of Tequila Freak Website, a one man studio. Founder, manager and creator of www.tequilafreak.com, a website for Computer Graphic Lovers. TequilaFreak.com holds 
+my portafolio of proyects that I was involved into on the past years, and a blog, where I can talk about CG and my favorite stuff.
  
-**iOS Developer Jr**
+###### iOS Developer
+
 Company: New Land Apps
 June 2018 - March 2019
 
