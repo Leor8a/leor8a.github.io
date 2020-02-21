@@ -23,7 +23,7 @@ Technologies used:
 GoogleMaps API, Codable/Encodable for handling JSON's, at first it was used API/REST with Alamofire but Codable/Encodable became available so we started using URLSession, Toast_Swift for handling messages as the Android app did and last, but not least, a small database was implemented with SQLite.
 
 
-#### Junior Web Developer
+#### Web Developer Junior
 
 Company: Botica Creativa
 July 2013 - January 2014
