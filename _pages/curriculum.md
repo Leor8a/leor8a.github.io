@@ -5,7 +5,7 @@ header:
  image: "/images/lowpolyTwo.jpg"
 ---
 
-#### Experience
+## Experience
 
 #### Founder, iOS Developer, Android Developer, Web Developer 
 
@@ -28,13 +28,13 @@ GoogleMaps API, Codable/Encodable for handling JSON's, at first it was used API/
 #### Junior Web Developer
 
 Company: Botica Creativa
-July 2018 - January 2014
+July 2013 - January 2014
 
 Experience with .Net and C# for creating fronted on Web Pages. It was a webpage for Lyncott where you were uploading recepies of food and you could get prizes, with the most shared recepy via Facebook.
 
 ---
 
-#### Education
+## Education
 
 #### Diplomat - Movile App Development with iOS Devices.
 August 2018 - January 2019
@@ -45,7 +45,7 @@ Place: iOS Development Lab - Faculty of Engineering - National Autonomus Univers
 Place: Faculty of Engineering - National Autonomus University of Mexico. (UNAM-FI)
 
 ---
-**Courses**
+## Courses
 
 #### 3D Modeling with Blender
 
@@ -53,13 +53,18 @@ January 2020
 Place: SODVI - Faculty of Engineering - National Autonomus University of Mexico. (UNAM-FI)
 
 ---
-#### Volunteering
+
+## Volunteering and Social Service
 
 September 2014
 Place: DEVHR - An event where videogame developers met for videogame development. It's like the mexican E3 Expo. I participated by attending the international ponents and by attending the people that went to the event. 
 
+#### Social Service
+2017 all that year
+I did my social service at the University on the Basic Sciences Division at the Linear Algebra department. My commissions were to gave grades to the students of Linear Algebra in that Semester of their homeworks. In retrospect I think I grade like 120 students per semester and there were 2 homeworks weekly. 
+
 ---
-#### Languages
+## Languages
 
 #### English
-CELE approved that I have the skills for reading comprehension. This is a Bachellor's Degree Pre-Requisit.
+CELE approved that I have the skills for reading comprehension, at the university it's a Bachellor's Degree Pre-Requisit.
