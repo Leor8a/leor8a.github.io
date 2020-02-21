@@ -1,13 +1,10 @@
 ---
-title: "Networks"
+title: "Data Networks"
 permalink: /networks/
 header: 
  image: "/images/network.jpg"
 ---
 
----
-Data Networks
----
 
 **5G** is the fifth generation wireless technology for **digital 
 cellular networks** that began wide deployment in 2019. As 
