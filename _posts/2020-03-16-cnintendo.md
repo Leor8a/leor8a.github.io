@@ -3,7 +3,6 @@ title: "El fin de una era, adiós Club Nintendo, gracias totales!"
 date: 2020-03-16
 tags: [Club Nintendo, Videojuegos]
 header:
-	image:
 	excerpt: "Club Nintendo"
 ---
 
