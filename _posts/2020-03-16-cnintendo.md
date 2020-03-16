@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "El fin de una era, adiós Club Nintendo, gracias totales!"
 date: 2020-03-16
 tags: [Club Nintendo, Videojuegos]
@@ -6,7 +7,7 @@ header:
 	excerpt: "Club Nintendo"
 ---
 
-# H1 El fin de una era, adiós Club Nintendo, gracias totales!
+# El fin de una era, adiós Club Nintendo, gracias totales!
 
 Hablar de ‘Club Nintendo’ me va a llevar varios posts porque es mucha historia y es hablar de muchas cosas que están en mi cabeza. Es hablar de amistades que dejé morir tiempo atrás y de muchas que fui forjando a través de los años. Muchas de ellas confluyen en los 3 tiempos y coincidimos porque muchos con los que convivo tenemos esta pasión por Nintendo y todo lo que involucra.
 
