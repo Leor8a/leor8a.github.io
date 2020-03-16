@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "El fin de una era, adiós Club Nintendo, gracias totales!"
+title: El fin de una era, adiós Club Nintendo, gracias totales!
+category: Meta
+author: John Smith
 date: 2020-03-16
 tags: [Club Nintendo, Videojuegos]
-header:
-	excerpt: "Club Nintendo"
+excerpt: Un pequeño post acerca de Club Nintendo y los que significa para mi.
 ---
 
 # El fin de una era, adiós Club Nintendo, gracias totales!
