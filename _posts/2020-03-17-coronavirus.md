@@ -1,15 +1,15 @@
 ---
 layout: post
-title: El fin de una era, adiós Club Nintendo, gracias totales!
+title: Coronavirus
 category: Meta
 author: John Smith
 date: 2020-03-16
-tags: [Club Nintendo, Videojuegos]
-excerpt: Un pequeño post acerca de Club Nintendo, lo que significa para mi y todo lo que involucra hablar de la revista.
+tags: [Acciones, Videojuegos Indies]
+excerpt: Extracto de juegos indies, la partida del E3: su cancelación debido al coronavirus, lo que significa estar en cuarentena.
 ---
 
 # Coronavirus
 
-Entiendo que el tema es un poco choteado, todos nos alarmamos de todo y para todo.
+Entiendo que el tema es un poco choteado y delicado, todos nos estamos alarmando de todo y para todo. Mis vecinos aunque saben que tienen que estar en cuarentena siguen teniendo sus actividades normales, lo cual no recrimino
 
 
