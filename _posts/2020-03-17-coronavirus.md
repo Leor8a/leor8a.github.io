@@ -10,6 +10,13 @@ excerpt: Extracto de juegos indies, la partida del E3: su cancelación debido al
 
 # Coronavirus
 
-Entiendo que el tema es un poco choteado y delicado, todos nos estamos alarmando de todo y para todo. Mis vecinos aunque saben que tienen que estar en cuarentena siguen teniendo sus actividades normales, lo cual no recrimino
+
+<p align="justify">
+Entiendo que el tema es un poco choteado y delicado, todos nos estamos alarmando de todo y para todo. Mis vecinos aunque saben que tienen que estar en cuarentena siguen teniendo sus actividades normales, lo cual no recrimino, pero caray se supone que se están tomando las medidas que se están tomando por una razón. La consigna es quedarnos en casa y a un videojugador, hermitaño y casi antisocial como yo, no me lo dicen 2 veces. (Bueno no soy tan antisocial como lo planteo, pero a veces hasta yo me caigo mal.)
+</p>
+
+
+
+
 
 
