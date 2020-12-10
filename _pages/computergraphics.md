@@ -7,8 +7,6 @@ header:
  image: "/images/lowpolyTwo.jpg"
 ---
 
-Computer Graphics.
-
 In the fall of the past year I've been studying Computer Graphics with OpenGL and the C++ programming language.
 
 
