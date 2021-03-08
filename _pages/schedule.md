@@ -1,5 +1,5 @@
 ---
-title: "Schedule 2021-1 Semester "
+title: "Schedule 2021-2 Semester "
 permalink: /schedule/
 header: 
  image: "/images/schedule.jpg"
