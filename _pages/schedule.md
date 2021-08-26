@@ -7,14 +7,14 @@ header:
 
 /* There's no other option
 
-| Nomenclature |                    Subject                    |      ID     |
-|--------------|-----------------------------------------------|-------------|
-|      ECD*    |     ELECTRONIC CIRCUITS AND DISPOSITIVES      |    1654     |
-|      FLA*    |       FORMAL LANGUAGES AND AUTOMATAS          |    1670     |
-|      MC      |                  MICROCOMPUTERS               |    1672     |
-|      RNM     |    RESOURCES AND NECESSITIES OF MEXICO        |    0762     |
-|      DN      |                   DATA NETWORKS               |    1767     |
-|      AI      |              ARTIFICIAL INTELLIGENCE          |    1766     |
+| Nomenclature |                    Subject                    |      ID     |    GROUP    |
+|--------------|-----------------------------------------------|-------------|-------------|
+|      ECD*    |     ELECTRONIC CIRCUITS AND DISPOSITIVES      |    1654     |  01 lab 02  |
+|      FLA*    |       FORMAL LANGUAGES AND AUTOMATAS          |    1670     |      01     |
+|      MC      |                  MICROCOMPUTERS               |    1672     |      01     |
+|      RNM*    |    RESOURCES AND NECESSITIES OF MEXICO        |    0762     |      01     |
+|      DN*     |                   DATA NETWORKS               |    1767     |      01     |
+|      AI      |              ARTIFICIAL INTELLIGENCE          |    1766     |      02     |
 
 
 |  Subject   |    Monday      |   Tuesday      |     Wednesday    | Thursday       |    Friday      | Saturday      |
@@ -22,9 +22,9 @@ header:
 |    FLA*    |                |                |                  |                |                | 7:30 to 12:00 |
 |     ECD*   | 8:30 to 10:00  |                |   8:30 to 10:00  |                |  8:30 to 10:00 |               |
 |     AI     |                |  7:00 to 9:15  |                  |  7:00 to 9:15  |                |               |
-|     RNM    |                | 13:00 to 14:30 |                  | 13:00 to 14:30 |                |               |
+|     RNM*   |                | 13:00 to 14:30 |                  | 13:00 to 14:30 |                |               |
 |     MC     |                | 16:00 to 17:30 |                  | 16:00 to 17:30 |                |               |
-|     DN     |                | 18:15 to 20:30 |                  | 18:15 to 20:30 |                |               |
+|     DN*    |                | 18:15 to 20:30 |                  | 18:15 to 20:30 |                |               |
 |   DN Lab   |                |                |  13:00 to 15:00  |                |                |               |
 |   ECD Lab  |                |                |                  |                | 11:30 to 13:30 |               |
 |            |                |                |                  |                |                |               |
