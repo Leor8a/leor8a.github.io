@@ -11,7 +11,7 @@ header:
 Company: Tequila Freak (personal brand)
 March 2019 - PRESENT
 
-Founder of Tequila Freak Website, a one man studio. Founder, manager and creator of www.tequilafreak.com, a website for Computer Graphic Lovers. TequilaFreak.com holds my portafolio of proyects that I am involved into on the past years, and a blog, where I can talk about Computer Graphics and my favorite stuff.
+Founder of Tequila Freak Website, a one man studio. Founder, manager and creator of www.tequilafreak.com, a website for Computer Graphic Lovers. TequilaFreak.com holds my portafolio of proyects that I am involved into on the past years, and a blog, where I can talk about Computer Graphics and my favorite stuff. (It's not maintained in a regular basis, because of my duties on UNAM )
  
 #### iOS Developer
 Company: New Land Apps
