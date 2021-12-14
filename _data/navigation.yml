@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Computer Graphics"
     url: /computer-graphics/
-  - title: "Networks"
-    url: /networks/
+  - title: "About Me Rev2"
+    url: /AboutMe/
   - title: "Schedule"
     url: /schedule/
   - title: "CV"
