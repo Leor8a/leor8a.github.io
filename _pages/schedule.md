@@ -9,7 +9,7 @@ header:
 | Nomenclature |                    Subject                    |      ID     |    GROUP    |    CLASSROOM    |
 |--------------|-----------------------------------------------|-------------|-------------|-----------------|
 |      CA      |               COMPUTERS ARQUITECTURE          |    1762     |      01     |       A302      |
-|      NA      |               NETWORK ADMINISTRATION          |    1866     |      03     |       B304      |
+
 |      CG      |                 COMPUTER GRAPHICS             |    1669     |      01     |       SIN       |
 |      CS      |                 CONTROL SYSTEMS               |    1879     |      01     |       B103      |
 |      DIP     |             DIGITAL IMAGE PROCESSING          |    0753     |      01     |       SIN       |
@@ -26,6 +26,6 @@ header:
 |  CS LAB(O)  |                |                  |                  |  16:00 to 18:00  |                 |               |
 |    CS(P)    |                |  18:00 to 20:15  |                  |  18:00 to 20:15  |                 |               |
 |    CAD(O)   |                |                  |                  |                  |  9:00 to 12:00  |               |
-|    NA(P)    |                |                  |                  |                  |                 | 8:00 to 11:00 |
-|  NA LAB(O)  |                |                  |  18:00 to 20:00  |                  |                 |               |
+
+
 |             |                |                  |                  |                  |                 |               |
