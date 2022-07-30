@@ -8,9 +8,14 @@ header:
 
 | Nomenclature |                    Subject                    |      ID     |    GROUP    |    CLASSROOM    |
 |--------------|-----------------------------------------------|-------------|-------------|-----------------|
-|      CS      |               COMUNICATION SYSTEMS            |    1686     |      01     |       B103      |
-|      XXX     |                XXXXXXXXXXXXXXXXXX             |    XXXX     |      01     |       XXX       |
-|    XXX LAB   |                XXXXXXXXXXXXXXXXXX             |    XXXX     |      01     |       XXXX      |
+|      CS      |               COMUNICATION SYSTEMS            |    1686     |      01     |       XXXX      |
+|      CO      |                     COMPILERS                 |    1764     |      01     |       XXXX      |
+|     DIS_2    |       (DISPOS 2) STORAGE DEVICES AND I/O      |    1765     |      02     |       XXXX      |
+|      CO      |            COSTS & PROYECT EVALUATION         |    0944     |      01     |       XXXX      |
+|      CO      |                     COMPILERS                 |    1764     |      01     |       XXXX      |
+|      CO      |                     COMPILERS                 |    1764     |      01     |       XXXX      |
+|    CS LAB    |                XXXXXXXXXXXXXXXXXX             |    6686     |      01     |       XXXX      |
+|   DIS_2 LAB  |                XXXXXXXXXXXXXXXXXX             |    6765     |      01     |       XXXX      |
 
 
 |    Subject  |    Monday      |     Tuesday      |     Wednesday    |   Thursday       |     Friday      | Saturday      |
