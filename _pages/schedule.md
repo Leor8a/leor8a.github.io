@@ -8,11 +8,11 @@ header:
 
 | Nomenclature |                    Subject                    |      ID     |    GROUP    |    CLASSROOM    |
 |--------------|-----------------------------------------------|-------------|-------------|-----------------|
-|      NA      |               NETWORK ADMINISTRATION          |    1686     |      XX     |                 |
-|      CO      |                     COMPILERS                 |    1764     |      XX     |                 |
-|     DIS_2    |       (DISPOS 2) STORAGE DEVICES AND I/O      |    1765     |      XX     |                 |
-|      PR      |               PATTERN RECOGNITION             |    0757     |      XX     |                 |
-|     ITA      |                IT ADMINISTRATION              |    0943     |      XX     |                 |
+|      NA      |               NETWORK ADMINISTRATION          |    1866     |      01     |      B306       |
+|      CO      |                     COMPILERS                 |    1764     |      02     |      I306       |
+|     DIS_2    |       (DISPOS 2) STORAGE DEVICES AND I/O      |    1765     |      01     |      J111       |
+|      PR      |               PATTERN RECOGNITION             |    0757     |      02     |      S227       |
+|     ITA      |                IT ADMINISTRATION              |    2944     |      01     |      B106       |
 
 |    Subject  |     Monday     |     Tuesday      |     Wednesday    |   Thursday       |     Friday      | Saturday        |
 |-------------|----------------|------------------|------------------|------------------|-----------------|-----------------|
