@@ -7,17 +7,17 @@ header:
 
 ## Experience
 
-#### Founder, iOS Developer, Android Developer, Web Developer 
+#### Founder, iOS Developer, Web Developer 
 Company: Tequila Freak (personal brand)
 March 2019 - PRESENT
 
-Founder of Tequila Freak Website, a one man studio. Founder, manager and creator of www.tequilafreak.com, a website for Computer Graphic Lovers. TequilaFreak.com holds my portafolio of proyects that I am involved into on the past years, and a blog, where I can talk about Computer Graphics and my favorite stuff. (It's not maintained in a regular basis, because of my duties on UNAM )
+Founder of Tequila Freak Website, a one man studio. Founder, manager and creator of www.leor8a.github.io, a website for Computer Graphic Lovers. leor8a.github.io holds my portafolio of proyects that I am involved into on the past years, and a blog, where I can talk about Computer Graphics and my favorite stuff.
  
 #### iOS Developer
 Company: New Land Apps
 June 2018 - March 2019
 
-Lead iOS Developer for "Onroad" App. The App I programmed was ready for release, I don't know why they stopped from releasing it.
+Lead iOS Developer for "Onroad" App. The App I programmed is on the Appstore.
 Technologies used:
 
 GoogleMaps API, Codable/Encodable for handling JSON's, at first it was used API/REST with Alamofire but Codable/Encodable became available so we started using URLSession, Toast_Swift for handling messages as the Android app did and last, but not least, a small database was implemented with SQLite.
