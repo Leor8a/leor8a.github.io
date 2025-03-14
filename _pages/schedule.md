@@ -8,7 +8,6 @@ header:
 
 | Nomenclature |                    Subject                    |      ID     |    GROUP    |    CLASSROOM    |
 |--------------|-----------------------------------------------|-------------|-------------|-----------------|
-|      NA      |               NETWORK ADMINISTRATION          |    1866     |      01     |      B306       |
 |      CO      |                     COMPILERS                 |    1764     |      02     |      I306       |
 |     DIS_2    |       (DISPOS 2) STORAGE DEVICES AND I/O      |    1765     |      01     |      J111       |
 |      PR      |               PATTERN RECOGNITION             |    0757     |      02     |      S227       |
@@ -16,7 +15,6 @@ header:
 
 |    Subject  |     Monday     |     Tuesday      |     Wednesday    |   Thursday       |     Friday      | Saturday        |
 |-------------|----------------|------------------|------------------|------------------|-----------------|-----------------|
-|      NA     |                |   7:00 to 8:30   |                  |   7:00 to 8:30   |                 |                 |
 |     DIS_2   |                |                  |                  |                  |  7:00 to 10:00  |                 |
 |     ITA     | 11:30 to 13:30 |                  |  11:30 to 13:30  |                  |                 |                 |
 |      PR     | 16:00 to 17:30 |                  |  16:00 to 17:30  |                  |                 |                 |
