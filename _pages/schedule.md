@@ -9,10 +9,10 @@ header:
 | Nomenclature |                    Subject                    |      ID     |    GROUP    |    CLASSROOM    |
 |--------------|-----------------------------------------------|-------------|-------------|-----------------|
 |      CO      |                     COMPILERS                 |    1764     |      02     |      I306       |
-|      WR      |                  WORK RELATIONS               |    1745     |      01     |      J111       |
-|      PR      |               PATTERN RECOGNITION             |    0757     |      02     |      S227       |
-|      SD      |             STORAGE DEVICES AND I/O           |    1765     |      01     |      B106       |
-|    LAB SD    |          STORAGE DEVICES AND I/O LAB          |    6765     |      01     |      B106       |
+|      WR      |                  WORK RELATIONS               |    1745     |      01     |      D001       |
+|      PR      |               PATTERN RECOGNITION             |    0757     |      02     |      B401       |
+|      SD      |             STORAGE DEVICES AND I/O           |    1765     |      01     |    J111/DS01    |
+|    LAB SD    |          STORAGE DEVICES AND I/O LAB          |    6765     |      01     |      Q209       |
 
 |    Subject  |     Monday     |     Tuesday      |     Wednesday    |   Thursday       |     Friday      | Saturday        |
 |-------------|----------------|------------------|------------------|------------------|-----------------|--------------|
