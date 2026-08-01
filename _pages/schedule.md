@@ -9,8 +9,8 @@ header:
 | Nomenclature |                    Subject                    |      ID     |    GROUP    |    CLASSROOM    |
 |--------------|-----------------------------------------------|-------------|-------------|-----------------|  
 |      DB      |                   DATABASES                   |    1763     |      03     |      QXXX       |
-|    LAB DB    |                 DATABASES LAB                 |    1763     |      10     |      QXXX       |
-|      TS      |               TITULATION SEMINARY             |    0917     |      02     |      QXXX       |
+|    LAB DB    |                 DATABASES LAB                 |    1763     |      10     |      SXXX       |
+|      TS      |               TITULATION SEMINARY             |    0917     |      02     |     Online      |
 |      SD      |             STORAGE DEVICES AND I/O           |    1765     |      01     |    J111/DS01    |
 |    LAB SD    |          STORAGE DEVICES AND I/O LAB          |    6765     |      01     |      Q209       |
 
