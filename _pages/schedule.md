@@ -8,10 +8,10 @@ header:
 
 | Nomenclature |                    Subject                    |      ID     |    GROUP    |    CLASSROOM    |
 |--------------|-----------------------------------------------|-------------|-------------|-----------------|  
-|      DB      |                   DATABASES                   |    1763     |      03     |      QXXX       |
+|      DB      |                   DATABASES                   |    1763     |      03     |      B103       |
 |    DB LAB    |                 DATABASES LAB                 |    1763     |      10     |      T101       |
 |      TS      |               TITULATION SEMINARY             |    0917     |      02     |     Online      |
-|      SD      |             STORAGE DEVICES AND I/O           |    1765     |      01     |    J111/DS01    |
+|      SD      |             STORAGE DEVICES AND I/O           |    1765     |      01     |      B101       |
 |    SD LAB    |          STORAGE DEVICES AND I/O LAB          |    6765     |      01     |      Q209       |
 
 |    Subject  |     Monday     |     Tuesday      |     Wednesday    |   Thursday       |     Friday      | Saturday    |
